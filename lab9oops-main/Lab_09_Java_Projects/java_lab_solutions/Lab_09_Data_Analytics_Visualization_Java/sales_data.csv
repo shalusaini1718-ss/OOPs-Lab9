@@ -1,0 +1,9 @@
+date,region,product,customer,sales,profit
+2026-01-03,North,Laptop,C001,65000,8000
+2026-01-12,South,Phone,C002,28000,4200
+2026-02-05,East,Tablet,C001,18000,2500
+2026-02-18,West,Laptop,C003,70000,9000
+2026-03-07,North,Phone,C004,31000,5000
+2026-03-20,South,Laptop,C002,68000,8500
+2026-04-02,East,Phone,C005,29000,4300
+2026-04-16,West,Tablet,C003,20000,2800
